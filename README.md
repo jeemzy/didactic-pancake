@@ -66,9 +66,9 @@ Regularne raporty miesięczne i kwartalne oraz korekty strategii w razie potrzeb
 Rare Beauty to dynamicznie rozwijająca się globalna marka kosmetyczna, która łączy wysoką jakość produktów z autentyczną misją społeczną. Dzięki spójnej strategii marketingowej, silnej obecności w mediach społecznościowych oraz wsparciu Seleny Gomez marka osiągnęła bardzo silną pozycję rynkową. Przedstawiony plan marketingowy zakłada dalszy wzrost sprzedaży, ekspansję międzynarodową oraz umacnianie wizerunku marki odpowiedzialnej społecznie. Realizacja zaplanowanych działań pozwoli Rare Beauty utrzymać tempo wzrostu i długoterminową konkurencyjność na globalnym rynku beauty.
 ```
 ```
-## Analiza SWOT marki Rare Beauty
+Analiza SWOT marki Rare Beauty
 
-### S – Mocne strony (Strengths)
+S – Mocne strony (Strengths)
 - Silna i autentyczna marka powiązana z rozpoznawalną postacią (Selena Gomez).
 - Wyraźna misja społeczna – promowanie samoakceptacji i wsparcie zdrowia psychicznego (Rare Impact Fund).
 - Wysoka jakość produktów i dobre opinie konsumentów.
@@ -77,14 +77,14 @@ Rare Beauty to dynamicznie rozwijająca się globalna marka kosmetyczna, która 
 - Globalna dystrybucja dzięki współpracy z Sephora.
 - Status marki wegańskiej i cruelty-free.
 
-### W – Słabe strony (Weaknesses)
+W – Słabe strony (Weaknesses)
 - Silne uzależnienie wizerunku marki od jednej osoby (Selena Gomez).
 - Ograniczona obecność w niektórych kanałach dystrybucji (np. brak sprzedaży w Chinach).
 - Stosunkowo wąskie portfolio w porównaniu do dużych koncernów kosmetycznych.
 - Ryzyko problemów z dostępnością produktów przy bardzo dużym popycie (out of stock).
 - Postrzeganie jako marka „celebrycka” może zniechęcać część konsumentów.
 
-### O – Szanse (Opportunities)
+O – Szanse (Opportunities)
 - Dalszy wzrost globalnego rynku beauty i segmentu kosmetyków kolorowych.
 - Rosnące znaczenie marek opartych na wartościach i autentyczności.
 - Ekspansja na nowe rynki geograficzne (Ameryka Południowa, Azja).
@@ -93,7 +93,7 @@ Rare Beauty to dynamicznie rozwijająca się globalna marka kosmetyczna, która 
 - Współprace z influencerami i kampanie viralowe (TikTok, Instagram).
 - Coraz większe zainteresowanie produktami cruelty-free i wegańskimi.
 
-### T – Zagrożenia (Threats)
+T – Zagrożenia (Threats)
 - Bardzo silna konkurencja w segmencie beauty, zwłaszcza marek celebryckich.
 - Zmęczenie konsumentów markami sygnowanymi przez gwiazdy.
 - Zmiany trendów kosmetycznych i szybkie starzenie się hitów produktowych.

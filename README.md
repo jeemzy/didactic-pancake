@@ -9,41 +9,17 @@ Niniejszy raport przedstawia kompleksową analizę globalnej pozycji marki Rare 
 ```
 2. Aktualna sytuacja marketingowa
 
-Analiza rynku. Globalny rynek kosmetyczny wykazuje stabilny wzrost, a segment kosmetyków kolorowych dynamicznie się odbudował po okresie pandemii. Konsumenci coraz częściej zwracają uwagę na wartości marek, ich etykę, inkluzywność oraz autentyczność. W ostatnich latach znacząco wzrósł segment marek beauty tworzonych przez celebrytów. Mimo dużej konkurencji, tylko część z nich osiąga długoterminowy sukces. Rare Beauty wyróżnia się spójną misją, realną jakością produktów i silnym zaangażowaniem społecznym.
+Analiza rynku  
+Rynek kosmetyczny na świecie stale się rozwija. Po pandemii ponownie wzrosło zainteresowanie kosmetykami do makijażu. Klienci zwracają coraz większą uwagę nie tylko na cenę i jakość produktów, ale także na wartości, które reprezentuje marka, takie jak etyka, autentyczność i inkluzywność. W ostatnich latach pojawiło się wiele marek kosmetycznych tworzonych przez celebrytów. Nie wszystkie jednak odnoszą długotrwały sukces. Rare Beauty wyróżnia się na tle konkurencji dzięki jasnej misji oraz pozytywnemu przekazowi.
 
-Pozycja marki. Rare Beauty od momentu debiutu notuje bardzo dynamiczny wzrost. W 2023 roku przychody marki szacowano na około 350 mln USD, co oznacza wzrost o około 50% rok do roku. Na początku 2024 roku wycena marki przekroczyła 2 mld USD. Rare Beauty należy do najlepiej sprzedających się marek w sieci Sephora i jest jedną z najszybciej rosnących marek beauty w mediach społecznościowych.
+Pozycja marki  
+Rare Beauty od momentu powstania rozwija się bardzo dynamicznie. W 2023 roku przychody marki wyniosły około 350 mln USD, co świadczy o dużej popularności produktów. Na początku 2024 roku wartość marki została oszacowana na ponad 2 mld USD. Rare Beauty jest jedną z najlepiej sprzedających się marek w sieci Sephora oraz bardzo dobrze radzi sobie w mediach społecznościowych.
 
-Obecność globalna. Marka jest dostępna w Ameryce Północnej, Europie, na Bliskim Wschodzie oraz w regionie Azji i Pacyfiku, głównie poprzez sieć Sephora oraz oficjalny sklep internetowy. Model omnichannel zapewnia szeroki zasięg i łatwą dostępność produktów.
+Obecność globalna  
+Marka Rare Beauty jest dostępna w wielu krajach na całym świecie, m.in. w Ameryce Północnej, Europie, na Bliskim Wschodzie oraz w Azji. Produkty można kupić w sklepach stacjonarnych Sephora oraz przez internet. Dzięki temu klienci mają łatwy dostęp do oferty marki.
 
-Konkurencja. Głównymi konkurentami są inne marki celebryckie oraz globalne brandy makijażowe. Największą przewagą Rare Beauty jest autentyczność przekazu, silne wartości oraz aktywna społeczność wokół marki. Produkty takie jak płynny róż Soft Pinch stały się viralowymi hitami i znacząco wzmocniły rozpoznawalność marki.
-```
-```
-3. Cele marketingowe (SMART)
-
-Osiągnięcie globalnych przychodów na poziomie około 500 mln USD w 2024 roku (wzrost o ok. 30% rok do roku).
-Wejście na co najmniej dwa nowe rynki zagraniczne do końca 2024 roku.
-Zwiększenie świadomości marki w grupie kobiet 16–34 lata o minimum 5 punktów procentowych do końca 2024 roku.
-Rozwój społeczności online – wzrost liczby obserwujących na Instagramie do około 12 mln.
-Zebranie co najmniej 10 mln USD na Rare Impact Fund w 2024 roku.
-```
-```
-4. Strategie marketingowe (4P)
-
-Produkt. Rare Beauty oferuje wysokiej jakości kosmetyki kolorowe, wegańskie i nietestowane na zwierzętach, dostępne w szerokiej gamie odcieni. Strategia zakłada rozwój bestsellerów oraz wprowadzanie innowacyjnych nowości, przy zachowaniu spójności z misją marki i dostępności opakowań.
-
-Cena. Marka stosuje strategię accessible premium – ceny są umiarkowane jak na segment selektywny i dostępne dla młodych konsumentek. Stosowane są zestawy promocyjne i oferty sezonowe.
-
-Dystrybucja. Głównym kanałem dystrybucji jest Sephora oraz własny sklep online. Marka rozwija sprzedaż międzynarodową, e-commerce i działania typu pop-up store.
-
-Promocja. Rare Beauty opiera promocję na marketingu cyfrowym, social mediach, influencerach oraz silnym zaangażowaniu Seleny Gomez. Kluczowe są kampanie wartościowe, autentyczne i działania prospołeczne związane ze zdrowiem psychicznym.
-```
-```
-5. Harmonogram działań marketingowych
-
-I kwartał: analiza wyników, planowanie działań, przygotowanie premier.
-II kwartał: globalne premiery produktów, kampanie influencerskie, wejście na nowe rynki.
-III kwartał: ekspansja zagraniczna, optymalizacja działań, przygotowanie kolekcji świątecznej.
-IV kwartał: kampanie charytatywne, Black Friday, sprzedaż świąteczna, podsumowanie roku.
+Konkurencja  
+Rare Beauty działa na bardzo konkurencyjnym rynku kosmetycznym. Jej głównymi konkurentami są inne marki makijażowe, w tym marki tworzone przez znane osoby. Przewagą Rare Beauty jest spójny wizerunek, autentyczność oraz lojalna grupa klientów. Dużą rolę w rozpoznawalności marki odegrały popularne produkty, takie jak płynny róż Soft Pinch, które stały się bardzo popularne w mediach społecznościowych.
 ```
 ```
 6. Budżet marketingowy
